@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=Main\ method
+comment1.params=cards
+comment1.target=void\ pickFourCards(int[])
+comment1.text=pickFourCards\ randomly\ picks\ four\ cards
+comment2.params=cards
+comment2.target=int\ sum(int[])
+comment2.text=sum\ computes\ the\ sum\ of\ cards\ picked
+comment3.params=cards
+comment3.target=void\ print(int[])
+comment3.text=print\ displays\ the\ number\ of\ picks
+numComments=4
